@@ -1,3 +1,5 @@
+//This program implement SJF algorithm by considering arrival time 0 for all processes.
+
 #include<stdio.h>
 int n;
 struct Process
